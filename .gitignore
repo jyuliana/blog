@@ -15,3 +15,6 @@ yarn-error.log
 .gitattributes
 .styleci.yml
 config/.database.php.swp
+access.log
+error.log
+
